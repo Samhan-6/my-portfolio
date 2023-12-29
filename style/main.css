@@ -1,0 +1,8 @@
+* {
+    background-color: #0F2A46;
+    color: #ffffff;
+}
+
+.header {
+    display: flex;
+}
